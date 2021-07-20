@@ -1,20 +1,14 @@
 <h1 align="center">Flappy Bird But You&#39;re the Pipe</h1>
 
-<p align="center"><project-description></p>
+<p align="center">Flappy Bird clone using the Kaboom.js library where the user controls a pipe and attempts to fly between columns of green pipes without hitting them</p>
 
 ## Links
-
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
 
 - [Live](<Homepage url> "Live View")
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
-
-![](/screenshots/2.png)
-
-![](/screenshots/3.png)
+![](/Screenshot.png)
 
 ## Built With
 
