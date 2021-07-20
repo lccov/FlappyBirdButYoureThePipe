@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Live](<Homepage url> "Live View")
+- [Live](https://lccovington.github.io/FlappyBirdButYoureThePipe/)
 
 ## Screenshots
 
