@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Live](https://lccovington.github.io/FlappyBirdButYoureThePipe/)
+- [Live](https://lccovington.github.io//FlappyBirdButYoureThePipe/)
 
 ## Screenshots
 
